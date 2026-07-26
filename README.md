@@ -1,5 +1,6 @@
-# Roblox
-MindFlash project
+# Roblox Mindflash Game
+
+MindFlash memory game project
 https://www.roblox.com/games/6128930705/
 
 Notes:
